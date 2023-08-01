@@ -3,7 +3,7 @@ DU Data Analysis Module 22 Big Data Challenge<br>
 Using SparkSQL to determine key metrics about home sales data.
 
 ## Queries
-*Home_Sales_colab.ipynb* uses a SparkSQL home sales database created from the
+*Home_Sales_colab.ipynb* uses a SparkSQL home sales database created
 from the file *home_sales_revised.csv*. The code does the following queries:
 1. What is the average price for a four bedroom house sold in each year rounded to two decimal places?
 2. What is the average price of a home for each year the home was built that have 3 bedrooms and 3 bathrooms rounded to two decimal places?
